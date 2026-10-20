@@ -11,10 +11,6 @@
 ![Framework](https://img.shields.io/badge/framework-Arduino-00979D)
 ![Open Source](https://img.shields.io/badge/open%20source-%E2%9D%A4-red)
 
-**Maintainer:** [@arcobitx-labs](https://github.com/arcobitx-labs) · [Email](mailto:arcobitxlabs@gmail.com)  
-**Collaborator:** [@abhijithk-ak](https://github.com/abhijithk-ak)  
-**Repository:** [arcobitx-labs/hill-climb-racing-esp32](https://github.com/arcobitx-labs/hill-climb-racing-esp32)
-
 </div>
 
 ---
